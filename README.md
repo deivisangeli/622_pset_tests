@@ -1,1 +1,1 @@
-# 622_pset_tests
+This is a repository for running simple tests and get started with github.
